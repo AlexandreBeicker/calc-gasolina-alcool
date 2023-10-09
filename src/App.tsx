@@ -1,6 +1,6 @@
+import React from 'react';
 import { useState, FormEvent } from 'react'
 import './App.css'
-
 import logoImg from './assets/logo.png'
 
 /*
